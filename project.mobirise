@@ -1,0 +1,253 @@
+{
+  "settings": {
+    "name": "Tree Planting Innitiative",
+    "currentPage": "greeninggreaternebbi.com.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#057b04",
+        "#1e8703",
+        "#e3f9aa"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.7",
+    "siteFonts": [],
+    "uniqCompNum": 8,
+    "versionPublish": "4.9.7",
+    "siteUrl": "http://greeninggreaternebbi.com",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "sitemapSwitcher": "on"
+  },
+  "pages": {
+    "greeninggreaternebbi.com.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "Greening Greater Nebbi Innitiative Program, being implement by Forum for Development of Greater Nebbi",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#e3f9aa",
+            "hamburgerColor": "#057b04"
+          },
+          "buttons": " <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-success-outline btn-success\" data-app-selector=\".navbar-nav .btn\" href=\"https://greeninggreaternebbi.com\">Download</a></li> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"#top\">Home</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gn-logo-copy-154x128.png",
+              "height": 128,
+              "alt": "Forum for Development of Greater Nebbi",
+              "link": "#top",
+              "title": "Greening Greater Nebbi Program"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"http://greeninggreaternebbi.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Greening Greater Nebbi</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#057b04"
+            },
+            ".navbar-brand": {
+              "font-size": "25px"
+            },
+            ".nav-link": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20190516-wa0005-960x540.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.6"
+          },
+          "title": "<b>Tree Planting Inniative</b>",
+          "caption": "<p>As members of the Civil Society Organisations (CSOs) in Greater Nebbi, we wish to actively support the processes to bridge the development processes as mandated by law.\n&nbsp;<span style=\"font-size: 1.25rem;\">One critical area which has attractmnn+ed our attention is the high rate of environmental degradation in our Sub-region as a result of the high demand for Charcoal and Fuel wood as energy sources for cooking. &nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Our implementation methodology to ensure sustainability is to establish woodlots at household level, Educational and Church Institutions (over 1200 in number), with technical support from the District Forestry Services. &nbsp;</span><span style=\"font-size: 1.25rem;\">We are going to receive about 11Million seedling from National Forestry Authority (NFA) secured funding from the Government of Uganda and Roofings Uganda Limited to promote tree growing in our communities.\n&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Interested people are advised to complete this form after which they are selected to participate in the programme.</span></p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#1e8703"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
+            "P": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#e3f9aa",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190516-wa0004-960x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190516-wa0004-960x540-767x431.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190516-wa0007-1-960x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190516-wa0007-1-960x540-734x413.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190516-wa0005-1-960x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190516-wa0005-1-960x540-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190425-wa0015-960x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190425-wa0015-960x540-767x432.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190425-wa0014-960x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190425-wa0014-960x540-767x431.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190516-wa0008-1-960x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190516-wa0008-1-960x540-743x418.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190425-wa0016-960x540.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190425-wa0016-960x540-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20190501-wa0020-631x576.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190501-wa0020-631x576-629x353.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff8e0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Interest Form",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "form": {
+            "action": "greater.nebbiforum@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Your info"
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-3"
+        }
+      ]
+    }
+  }
+}
